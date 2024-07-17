@@ -1,0 +1,24 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{Lista de figuras}{ix}{chapter*.5}%
+\contentsline {chapter}{Lista de tablas}{xi}{chapter*.6}%
+\contentsline {chapter}{\numberline {1}Introducción}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Redes neuronales prealimentadas}{2}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Función sigmoidea}{4}{section.2.1}%
+\contentsline {chapter}{\numberline {3}Conclusión}{6}{chapter.3}%
+\contentsline {chapter}{Referencias}{7}{chapter*.11}%
+\setcounter {tocdepth}{-10}
+\contentsline {chapter}{\numberline {A}Apéndice de ejemplo}{8}{appendix.Alph1}%
+\setcounter {tocdepth}{\c@oldtocdepth }
+\contentsline {chapter}{Apéndice A: Apéndice de ejemplo}{8}{appendix.Alph1}%
+\setcounter {tocdepth}{-10}
+\contentsline {chapter}{\numberline {B}Otro apéndice de ejemplo}{9}{appendix.Alph2}%
+\setcounter {tocdepth}{\c@oldtocdepth }
+\contentsline {chapter}{Apéndice B: Otro apéndice de ejemplo}{9}{appendix.Alph2}%
+\setcounter {tocdepth}{-10}
+\contentsline {chapter}{\numberline {C}Anexo de ejemplo}{10}{appendix.Alph3}%
+\setcounter {tocdepth}{\c@oldtocdepth }
+\contentsline {chapter}{Anexo C: Anexo de ejemplo}{10}{appendix.Alph3}%
+\setcounter {tocdepth}{-10}
+\contentsline {chapter}{\numberline {D}Otro anexo de ejemplo}{11}{appendix.Alph4}%
+\setcounter {tocdepth}{\c@oldtocdepth }
+\contentsline {chapter}{Anexo D: Otro anexo de ejemplo}{11}{appendix.Alph4}%
