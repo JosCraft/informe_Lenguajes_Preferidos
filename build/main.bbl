@@ -1,14 +1,13 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{1}
 
-\bibitem[Ash, 1972]{ash}
-Ash, R.~B. (1972).
-\newblock {\em Real Analysis and Probability}.
-\newblock New York: Academic Press, 1 edition.
+\bibitem{knuth1984texbook}
+Donald~E Knuth.
+\newblock The texbook.
+\newblock {\em Computers \& Mathematics with Applications}, 8(1):2--4, 1984.
 
-\bibitem[Brezis, 2011]{brezis}
-Brezis, H. (2011).
-\newblock {\em Functional Analysis, Sobolev Spaces and Partial Differential
-  Equations}.
-\newblock New York, NY: Springer, 1 edition.
+\bibitem{lamport1994latex}
+Leslie Lamport.
+\newblock {\em LaTeX: A Document Preparation System}.
+\newblock Addison-Wesley, 1994.
 
 \end{thebibliography}
